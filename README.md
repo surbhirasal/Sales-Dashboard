@@ -18,7 +18,7 @@ This dashboard offers a streamlined interface for visualising data, tracking key
 - Calculate Percentage of Total Orders Delivered.
 
 
-#Process
+## Process
 
 Data Cleaning:
 Verified for missing, inconsistent, or duplicate entries.
@@ -35,8 +35,8 @@ Combined all Pivot Tables and Charts into a single interactive dashboard.
 Added Slicers and Timelines to filter data dynamically (by Year, State, Gender, Channel, and Category).
 Enhanced layout using Excel Shapes, Icons, and consistent color themes for a professional look.
 
-##Dashboard
-<img width="1920" height="1080" alt="Screenshot 2025-10-31 210147" src="https://github.com/user-attachments/assets/37ed50ed-83c6-4523-9124-70a8b7c25d6f" />
+## Dashboard
+<img width="1920" height="826" alt="Screenshot 2025-10-31 210147" src="https://github.com/user-attachments/assets/7534fa7a-c09c-43ae-9ecc-b868a50d4b66" />
 
 
   
