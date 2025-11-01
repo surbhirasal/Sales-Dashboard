@@ -1,9 +1,11 @@
 # Sales-Dashboard
 This dashboard offers a streamlined interface for visualising data, tracking key metrics, and managing user interactions. It features a sidebar navigation, interactive cards, charts, tables, and theme toggles. Perfect as a foundation for an admin panel, analytics portal or internal business management tool.
+
 # Dataset used
+-<a href = "https://github.com/surbhirasal/Sales-Dashboard/blob/main/salesdata.csv">Dataset</a>
 
 
-## Key Questions / KPIs
+# Key Questions / KPIs
 
 - Compare Sales vs Orders in a single visual chart.
 - Identify the month with the highest Sales and Orders.
@@ -16,7 +18,7 @@ This dashboard offers a streamlined interface for visualising data, tracking key
 - Calculate Percentage of Total Orders Delivered.
 
 
-##Process
+#Process
 
 Data Cleaning:
 Verified for missing, inconsistent, or duplicate entries.
