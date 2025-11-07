@@ -15,7 +15,6 @@ This dashboard offers a streamlined interface for visualising data, tracking key
 - Study the relation between Age Group and Gender based on order count.
 - Determine which Sales Channel contributes maximum revenue.
 - Find the highest-selling Product Category.
-- Calculate Percentage of Total Orders Delivered.
 
 
 ## Process
